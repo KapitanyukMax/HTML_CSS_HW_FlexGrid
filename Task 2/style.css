@@ -6,7 +6,6 @@ body {
 
 .container {
     display: grid;
-    grid-template-rows: auto;
     grid-template-columns: 200px 70px 1fr 70px 200px;
     margin: 20px;
 }
